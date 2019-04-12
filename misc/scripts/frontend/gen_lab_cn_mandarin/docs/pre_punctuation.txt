@@ -1,0 +1,4 @@
+# pre punctuation in Chinese Mandarin
+“
+（
+‘

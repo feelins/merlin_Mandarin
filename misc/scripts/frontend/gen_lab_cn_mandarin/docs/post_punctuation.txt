@@ -1,0 +1,19 @@
+# post punctuation of Chinese Mandarin
+”
+。
+，
+、
+？
+：
+！
+…
+—
+）
+；
+’
+!
+,
+.
+:
+;
+
