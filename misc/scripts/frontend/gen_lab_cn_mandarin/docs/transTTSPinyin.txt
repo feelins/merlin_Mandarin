@@ -8,6 +8,7 @@ diu,diou
 dui,duei
 dun,duen
 gui,guei
+gun,guen
 gen,guen
 hui,huei
 hun,huen
@@ -48,7 +49,7 @@ wo,uo
 wu,u
 xiu,xiou
 xu,xv
-xun,xve
+xue,xve
 xun,xvn
 ya,ia
 yan,ian
